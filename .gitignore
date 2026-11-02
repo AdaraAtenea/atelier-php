@@ -1,0 +1,35 @@
+# Configuración y credenciales privadas
+.env
+.env.*
+config.local.php
+
+# Dependencias de Composer
+/vendor/
+
+# Archivos temporales y registros
+*.log
+*.tmp
+*.bak
+*.old
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos con credenciales privadas
+/config.php
+/config.local.php
+.env
+.env.*
+
+# Archivos temporales
+*.log
+*.tmp
+*.bak
+*.old
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
